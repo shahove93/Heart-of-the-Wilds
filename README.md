@@ -1,2 +1,2 @@
-# Heart-of-the-Wilds
+Heart of the Wilds
 
